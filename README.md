@@ -1,2 +1,4 @@
 # SpaceGameWT
-Shit Game nobody comits
+Shit Game nobody comits 
+
+I comits - Aguis
