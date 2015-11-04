@@ -64,6 +64,11 @@ namespace SpaceGame1
 
             // TODO: Add your update logic here
 
+            //Sectors??
+            //Check colition
+                //Notify colition to both objects
+
+            //Update Game objects
             base.Update(gameTime);
         }
 
@@ -73,9 +78,13 @@ namespace SpaceGame1
         /// <param name="gameTime">Provides a snapshot of timing values.</param>
         protected override void Draw(GameTime gameTime)
         {
-            GraphicsDevice.Clear(Color.CornflowerBlue);
+            GraphicsDevice.Clear(Color.Black);
 
             // TODO: Add your drawing code here
+
+            //Draw Stars
+            //Draw GameObjects
+            //Blur screen?
 
             base.Draw(gameTime);
         }
